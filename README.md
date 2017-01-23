@@ -1,4 +1,4 @@
-# FCC LeaderBoard
+# FCC LeaderBoard - 2-nd React challenge at Free Code Camp
 
 BoilerPlate from https://github.com/StephenGrider/
 
